@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">navigation_app</string>
+    <string name="digits">digits</string>
 </resources>
